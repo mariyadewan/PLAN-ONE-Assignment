@@ -76,6 +76,47 @@ img {
   justify-content: center;
   justify-content: flex-start;
 }
+/* //about me // */
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.about{
+  
+  margin-top: 50px;
+  background-color:rgba(7, 7, 242, 0.655);
+  padding: 50px 150px;
+ text-align: center;
+}
+.section-title{ 
+ color: white;
+ align-items: center;
+ margin-bottom: 30px;
+ font-weight: 700px;
+ font-size: 35px;
+}
+
+.section-discription{
+  color: white;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.about-info-container{
+ display: flex;
+ gap: 95px;
+ 
+
+}
+ 
+.about .info-title{
+  font-size: 20px;
+  color: azure;
+}
+.info-description{
+font-weight: 700px;
+font-size: 20px;
+color: antiquewhite;
+}
 
 /* my plan start */
 
